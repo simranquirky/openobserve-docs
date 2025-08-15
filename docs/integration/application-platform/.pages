@@ -1,5 +1,8 @@
 nav:
 
     - Vercel: vercel.md
+<<<<<<< HEAD
     - Heroku: heroku.md
+=======
+>>>>>>> 419d26c (added Integration page for Vercel)
   
