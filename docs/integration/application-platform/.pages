@@ -2,7 +2,11 @@ nav:
 
     - Vercel: vercel.md
 <<<<<<< HEAD
+<<<<<<< HEAD
     - Heroku: heroku.md
 =======
 >>>>>>> 419d26c (added Integration page for Vercel)
+=======
+    - Heroku: heroku.md
+>>>>>>> b049a52 (added Integration page for Heroku)
   
