@@ -7,8 +7,12 @@ nav:
     - MongoDB: mongodb.md
     - Redis: redis.md
 <<<<<<< HEAD
+<<<<<<< HEAD
     - Apache Zookeeper: zookeeper.md
     - Cassandra: cassandra.md
     - Aerospike: aerospike.md
 =======
 >>>>>>> 6cae22b (added integration page for redis)
+=======
+    - Apache Zookeeper: zookeeper.md
+>>>>>>> 699e4ea (added integration page for zookeeper)
