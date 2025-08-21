@@ -6,6 +6,9 @@ nav:
     - MySQL: mysql.md
     - MongoDB: mongodb.md
     - Redis: redis.md
+<<<<<<< HEAD
     - Apache Zookeeper: zookeeper.md
     - Cassandra: cassandra.md
     - Aerospike: aerospike.md
+=======
+>>>>>>> 6cae22b (added integration page for redis)
